@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942370941062",
+    "project_id": "ras-chat-449ab",
+    "storage_bucket": "ras-chat-449ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942370941062:android:c2a208808c967585fac907",
+        "android_client_info": {
+          "package_name": "com.example.ras_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942370941062-rgl7ktgoj3l9q2kpl9auu2vs1sotk94g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0gCz0a_pLvQptO73U-H2XQ8NoPB5e8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942370941062-rgl7ktgoj3l9q2kpl9auu2vs1sotk94g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
