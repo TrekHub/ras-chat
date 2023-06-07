@@ -5,11 +5,14 @@ class AuthRepo {
   final FirebaseAuth _auth;
 
   //method to sign in with email and password
-
   Future<User?> signInWithEmailandPassword(String email, password) async {
     final result = await _auth.signInWithEmailAndPassword(
         email: email, password: password);
-
     return result.user;
+  }
+
+  //method to sign out
+  Future<void> signOut() async {
+    await _auth.signOut();
   }
 }
